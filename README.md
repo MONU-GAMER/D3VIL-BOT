@@ -1,16 +1,16 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/H1M4N5HU0P/MAFIA-BOT/dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/D3KRISH/D3VIL-BOT/dashboard)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
-![GitHub repo size](https://img.shields.io/github/repo-size/H1M4N5HU0P/MAFIA-BOT)
-[![HitCount](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-BOT.svg)](http://hits.dwyl.com/H1M4N5HU0P/MAFIA-BOT)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/H1M4N5HU0P)
+![GitHub repo size](https://img.shields.io/github/repo-size/D3KRISH/D3VIL-BOT)
+[![HitCount](http://hits.dwyl.com/D3KRISH/D3VIL-BOT.svg)](http://hits.dwyl.com/D3KRISH/D3VIL-BOT)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/D3KRISH)
 
 
 
-# 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
+# 𝚃𝙷𝙴 𝙳3𝚅𝙸𝙻𝙱𝙾𝚃
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/MafiaBot_Support THANKS FOR VISITING OUR REPO💖
-[![MAFIABOT LOGO](https://telegra.ph/file/75229ba894ef780332815.jpg)](https://t.me/MafiaBot_Support)
+D3vil Bot made by @D3_krish. Supported by respective mafiabot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/D3VIL_BOT_SUPPORT THANKS FOR VISITING OUR REPO💖
+[![D3VILBOT LOGO](https://telegra.ph/file/5f48f28fd20d5aefc81e8.jpg)(https://t.me/D3VIL_SUPPORT)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
