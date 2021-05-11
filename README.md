@@ -10,7 +10,7 @@
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 D3vil Bot made by @D3_krish. Supported by respective mafiabot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/D3VIL_BOT_SUPPORT THANKS FOR VISITING OUR REPO💖
-[![D3VILBOT LOGO](https://telegra.ph/file/5f48f28fd20d5aefc81e8.jpg)(https://t.me/D3VIL_SUPPORT)
+[![D3VILBOT LOGO](https://telegra.ph/file/5f48f28fd20d5aefc81e8.jpg) [SUPPORTE](https://t.me/D3VIL_SUPPORT)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
@@ -19,7 +19,7 @@ D3vil Bot made by @D3_krish. Supported by respective mafiabot owner @H1M4N5HU0P.
 <details>
 
   <summary> • FOR ANY QUERY • </summary>
-<h2 align="center"> <a href="https://t.me/MafiaBot_Support">☢️JOIN MAFIABOT SUPPORT☢️</a></h2>
+<h2 align="center"> <a href="https://t.me/D3VIL_SUPPORT">☢️JOIN D3VILBOT SUPPORT☢️</a></h2>
 
 </details>
 
@@ -34,7 +34,7 @@ D3vil Bot made by @D3_krish. Supported by respective mafiabot owner @H1M4N5HU0P.
 
 <h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FH1M4N5HU0P%2FMAFIA-BOT&template=https%3A%2F%2Fgithub.com%2FH1M4N5HU0P%2FMAFIA-BOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FD3KRISH%2FD3VIL-BOT&template=https%3A%2F%2Fgithub.com%2FD3KRISH%2FD3VIL-BOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 
 </details>
 
@@ -52,8 +52,8 @@ D3vil Bot made by @D3_krish. Supported by respective mafiabot owner @H1M4N5HU0P.
 
 Simply clone the repository and run the main file:
 ```sh
-git clone https://github.com/H1M4N5HU0P/MAFIA-BOT.git
-cd MAFIA-BOT
+git clone https://github.com/D3KRISH/D3VIL-BOT.git
+cd D3VIL-BOT
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
 pip install -r requirements.txt
@@ -110,9 +110,9 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 H1M4N5HU0P
+Copyright (C) 2021 D3KRISH
 
-Poject [MAFIABOT](https://github.com/H1M4N5HU0P/MAFIA-BOT) is free software: you can redistribute it and/or modify
+Poject [D3VILBOT](https://github.com/D3KRISH/D3VIL-BOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
