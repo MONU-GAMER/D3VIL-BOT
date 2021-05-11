@@ -2,7 +2,7 @@
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
 ![GitHub repo size](https://img.shields.io/github/repo-size/D3KRISH/D3VIL-BOT)
 [![HitCount](http://hits.dwyl.com/D3KRISH/D3VIL-BOT.svg)](http://hits.dwyl.com/D3KRISH/D3VIL-BOT)
-[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/D3KRISH)
+[![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/D3_krish)
 
 
 
