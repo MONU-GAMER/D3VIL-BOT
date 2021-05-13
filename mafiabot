@@ -4,10 +4,10 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $MAFIA_REPO == "mafiabot" ]]
+    if [[ $MAFIA_REPO == "D3VIL-BOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0gxTTRONUhVMFAvTUFGSUEtVVNFUkJPVC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
-    elif [[ $MAFIA_REPO == "MAFIABOT" ]]
+    elif [[ $MAFIA_REPO == "D3VIL-BOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0gxTTRONUhVMFAvTUFGSUEtVVNFUkJPVC9hcmNoaXZlL21hc3Rlci56aXA=" | base64 -d
     elif [[ $MAFIA_REPO =~ $regex ]]
@@ -37,11 +37,11 @@ _set_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $MAFIAPATH
-    echo "    Starting MafiaBot    "
+    echo "    Starting D3VILBot    "
     echo "
                           ╔═╦═╦══╦══╦══╦══╦══╦═╦══╗
-                          ║║║║║╔╗║═╦╩║║╣╔╗║╔╗║║╠╗╔╝
-                          ║║║║║╠╣║╔╝╔║║╣╠╣║╔╗║║║║║
+                          ║║║║╔║═╦╩║║╣╔╗╔╗║║╠╗╔╝
+                          ║║║║╠D3VIL╣║╔╝BOT╔║║╣╠╣║╔╗
                           ╚╩═╩╩╝╚╩╝─╚══╩╝╚╩══╩═╝╚╝
     "
 
