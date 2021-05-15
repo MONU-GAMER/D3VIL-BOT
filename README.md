@@ -10,7 +10,7 @@
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 D3vil Bot made by @D3_krish. Supported by respective mafiabot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/D3VIL_BOT_SUPPORT THANKS FOR VISITING OUR REPO💖
-[![D3VILBOT LOGO](https://telegra.ph/file/5f48f28fd20d5aefc81e8.jpg) 
+[![D3VILBOT LOGO](https://telegra.ph/file/c42d5eddd24a9e6acd576.jpg) 
 
 <a href="https://t.me/D3VIL_BOT_SUPPORT"><img src="https://img.shields.io/badge/Join-Support%20GROUP-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
