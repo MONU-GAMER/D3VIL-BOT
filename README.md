@@ -11,7 +11,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 D3vil Bot made by @D3_krish. Supported by respective mafiabot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/D3VIL_BOT_SUPPORT THANKS FOR VISITING OUR REPO💖
 [![D3VILBOT LOGO](https://telegra.ph/file/5f48f28fd20d5aefc81e8.jpg) 
-## [JOIN](https://t.me/D3VIL_SUPPORT)
+## [JOIN](https://t.me/joinchat/FNgu5eTO7jE1OWNl)
 
 
 # The owner would not be responsible for any kind of bans due to the bot...
