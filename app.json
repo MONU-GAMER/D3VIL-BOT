@@ -39,7 +39,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO D3VILBOT😈",
+      "value": "😈ȴꬴꬶꬴꬼɖ'ȿ ȿᶏỿ'ȿ ȶꝍ ɖ3ⱱᶖȴɓꝍȶ😈",
       "required": false
     },
     "PMPERMIT_PIC": {
@@ -107,12 +107,12 @@
        "value": ""
     }, 
     "STRING_SESSION": {
-      "description": "Get this value by running https://repl.it/@H1M4N5HU0P/MAFIABOT#main.py ",
+      "description": "Get this value by running https://replit.com/@D3krish/D3VILSTRINGSESSION-1#main.py ",
       "value": ""
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
-      "value": "22c9f205-3860-48e7-a1e5-457c15480877",
+      "value": "95f8bc3a-82d8-41e6-9a48-3cda9e292f72",
       "required": true
     },
     "HEROKU_APP_NAME": {
