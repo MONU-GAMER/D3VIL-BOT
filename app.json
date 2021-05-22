@@ -29,7 +29,7 @@
     },
     "ALIVE_MSG": {
       "description": "Set Custom Alive Message When entering .mafia Command.",
-      "value": "😈 D3VILBOT IS ALIVE😈",
+      "value": "⚔️ D3VILBOT IS ALIVE⚔️",
       "required": false
     },
     "ALIVE_PIC": {
