@@ -6,7 +6,7 @@
 
 
 
-# 𝚃𝙷𝙴 𝙳3𝚅𝙸𝙻𝙱𝙾𝚃
+#  𝚃𝙷𝙴 𝙳3𝚅𝙸𝙻𝙱𝙾𝚃
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 D3vil Bot made by @D3_krish. Supported by respective mafiabot owner @H1M4N5HU0P. Join for update related info channel and group :- https://t.me/D3VIL_BOT_SUPPORT THANKS FOR VISITING OUR REPO💖
